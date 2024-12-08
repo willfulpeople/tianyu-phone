@@ -40,7 +40,7 @@
 ## 项目结构
 
 ```
-tianyu-phone/
+tianyun-phone/
 ├── frontend/                # 前端项目目录
 │   ├── src/
 │   │   ├── components/     # 组件
